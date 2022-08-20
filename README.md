@@ -1,4 +1,4 @@
-## Oiii eu sou o Pablo Doebber, desenvolvedor front-end!
+## Oiii eu sou o Pablo Doebber, desenvolvedor!
 
 <div align="center">
   <a href="https://github.com/doebber28">
